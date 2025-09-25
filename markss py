@@ -1,0 +1,7 @@
+
+marks = int(input("Enter marks"))
+
+if marks<=100 and marks>=35:
+  print("pass party")
+else:
+  print("no home today")
